@@ -56,9 +56,9 @@
 
 ### 🌐 Web3  
 <p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum" height="28"/>
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?logo=metamask" height="28"/>
-  <img src="https://img.shields.io/badge/Solidity-363636" height="28"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum"/>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?logo=metamask"/>
+  <img src="https://img.shields.io/badge/Solidity-363636"/>
 </p>
 
 ---

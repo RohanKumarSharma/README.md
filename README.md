@@ -55,6 +55,7 @@
 ---
 
 ### 🌐 Web3  
+
 <p>
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)  
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask)  
@@ -64,6 +65,7 @@
 ---
 
 ### 🛠️ Tools & Platforms  
+
 <p>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  

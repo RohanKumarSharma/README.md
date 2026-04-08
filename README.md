@@ -44,11 +44,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
 ---
-### ⚙️ DevOps & CI/CD  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![CI/CD](https://img.shields.io/badge/CI/CD-FF6C37?style=flat)
 
+### ⚙️ DevOps & CI/CD  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge"/>
+</p>
 ---
 
 ### 🌐 Web3  

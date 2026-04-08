@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/MetaMask-F6851B?logo=metamask" height="28"/>
   <img src="https://img.shields.io/badge/Solidity-363636" height="28"/>
 </p>
+
 ---
 
 ### 🛠️ Tools & Platforms  
@@ -69,6 +70,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode" height="28"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman" height="28"/>
 </p>
+
 ---
 
 ### 💻 OS & Environments  

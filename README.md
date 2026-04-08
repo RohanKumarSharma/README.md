@@ -56,19 +56,19 @@
 
 ### 🌐 Web3  
 <p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum"/>
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?logo=metamask"/>
-  <img src="https://img.shields.io/badge/Solidity-363636"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🛠️ Tools & Platforms  
 <p>
-   <img src="https://img.shields.io/badge/Git-F05032?logo=git" height="28"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github" height="28"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode" height="28"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman" height="28"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 
 ---

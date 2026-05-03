@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rohan Kumar sharma
+# Hi there 👋 I'm Rohan Kumar Sharma
 
 🚀 Passionate Developer | 💻 Problem Solver | 🌱 Lifelong Learner
 

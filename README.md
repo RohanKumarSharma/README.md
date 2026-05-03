@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 * 🎯 Focused on **Full Stack Development**
-* 📚 Practicing **DSA & Problem Solving daily**
+* 📚 Practicing **DSA & Problem Solving Daily**
 * ⚡ Love building real-world projects
 * 💼 Preparing for top tech companies
 
